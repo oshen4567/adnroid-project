@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolidayApp</string>
+    <string name="Date">Date</string>
+    <string name="Name">Holiday Name</string>
+</resources>
